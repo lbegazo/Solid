@@ -1,0 +1,14 @@
+D:\Luis\GitHub\Solid\UnitTestSolid\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Luis\GitHub\Solid\UnitTestSolid\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Luis\GitHub\Solid\UnitTestSolid\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Luis\GitHub\Solid\UnitTestSolid\bin\Debug\netcoreapp2.0\UnitTestSolid.deps.json
+D:\Luis\GitHub\Solid\UnitTestSolid\bin\Debug\netcoreapp2.0\UnitTestSolid.runtimeconfig.json
+D:\Luis\GitHub\Solid\UnitTestSolid\bin\Debug\netcoreapp2.0\UnitTestSolid.runtimeconfig.dev.json
+D:\Luis\GitHub\Solid\UnitTestSolid\bin\Debug\netcoreapp2.0\UnitTestSolid.dll
+D:\Luis\GitHub\Solid\UnitTestSolid\bin\Debug\netcoreapp2.0\UnitTestSolid.pdb
+D:\Luis\GitHub\Solid\UnitTestSolid\obj\Debug\netcoreapp2.0\UnitTestSolid.csprojResolveAssemblyReference.cache
+D:\Luis\GitHub\Solid\UnitTestSolid\obj\Debug\netcoreapp2.0\UnitTestSolid.csproj.CoreCompileInputs.cache
+D:\Luis\GitHub\Solid\UnitTestSolid\obj\Debug\netcoreapp2.0\UnitTestSolid.AssemblyInfoInputs.cache
+D:\Luis\GitHub\Solid\UnitTestSolid\obj\Debug\netcoreapp2.0\UnitTestSolid.AssemblyInfo.cs
+D:\Luis\GitHub\Solid\UnitTestSolid\obj\Debug\netcoreapp2.0\UnitTestSolid.dll
+D:\Luis\GitHub\Solid\UnitTestSolid\obj\Debug\netcoreapp2.0\UnitTestSolid.pdb

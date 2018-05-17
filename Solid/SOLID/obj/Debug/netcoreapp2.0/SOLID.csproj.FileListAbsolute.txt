@@ -1,0 +1,11 @@
+D:\Luis\GitHub\SOLID\SOLID\bin\Debug\netcoreapp2.0\SOLID.deps.json
+D:\Luis\GitHub\SOLID\SOLID\bin\Debug\netcoreapp2.0\SOLID.runtimeconfig.json
+D:\Luis\GitHub\SOLID\SOLID\bin\Debug\netcoreapp2.0\SOLID.runtimeconfig.dev.json
+D:\Luis\GitHub\SOLID\SOLID\bin\Debug\netcoreapp2.0\SOLID.dll
+D:\Luis\GitHub\SOLID\SOLID\bin\Debug\netcoreapp2.0\SOLID.pdb
+D:\Luis\GitHub\SOLID\SOLID\obj\Debug\netcoreapp2.0\SOLID.csproj.CoreCompileInputs.cache
+D:\Luis\GitHub\SOLID\SOLID\obj\Debug\netcoreapp2.0\SOLID.AssemblyInfoInputs.cache
+D:\Luis\GitHub\SOLID\SOLID\obj\Debug\netcoreapp2.0\SOLID.AssemblyInfo.cs
+D:\Luis\GitHub\SOLID\SOLID\obj\Debug\netcoreapp2.0\SOLID.dll
+D:\Luis\GitHub\SOLID\SOLID\obj\Debug\netcoreapp2.0\SOLID.pdb
+D:\Luis\GitHub\SOLID\SOLID\bin\Debug\netcoreapp2.0\SOLID.dll.config
